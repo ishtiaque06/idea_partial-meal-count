@@ -7,22 +7,22 @@
 
     <fragment
         android:id="@+id/loginFragment"
-        android:name="io.ishtiaque06.www.mealtracker.login.loginFragment"
+        android:name="io.ishtiaque06.www.mealtracker.fragments.loginFragment"
         android:label="fragment_login"
         tools:layout="@layout/fragment_login" />
     <fragment
         android:id="@+id/updateMealsFragment"
-        android:name="io.ishtiaque06.www.mealtracker.updatemeals.updateMealsFragment"
+        android:name="io.ishtiaque06.www.mealtracker.fragments.updateMealsFragment"
         android:label="fragment_update_meals"
         tools:layout="@layout/fragment_update_meals" />
     <fragment
         android:id="@+id/feedbackFragment"
-        android:name="io.ishtiaque06.www.mealtracker.feedback.FeedbackFragment"
+        android:name="io.ishtiaque06.www.mealtracker.fragments.FeedbackFragment"
         android:label="fragment_feedback"
         tools:layout="@layout/fragment_feedback" />
     <fragment
         android:id="@+id/homePageFragment"
-        android:name="io.ishtiaque06.www.mealtracker.homepage.HomePageFragment"
+        android:name="io.ishtiaque06.www.mealtracker.fragments.HomePageFragment"
         android:label="fragment_home_page"
         tools:layout="@layout/fragment_home_page" >
         <action
