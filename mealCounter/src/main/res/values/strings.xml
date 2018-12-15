@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meal Tracker</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome to Partial Meal Tracker!</string>
+    <string name="welcome_desc">This simple app lets you keep track of how many partial
+    meals you have.</string>
+    <string name="login">Log In with Google</string>
+    <string name="swipe_meal">Swipe a Meal</string>
+    <string name="update_meal">Update your Meal Count</string>
+    <string name="meals_left">meals left</string>
+    <string name="enter_meals">Enter new number of meals:</string>
+    <string name="meals_hint">e.g. 1234</string>
+</resources>

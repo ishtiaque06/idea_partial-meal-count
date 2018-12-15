@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homePageFragment">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="io.ishtiaque06.www.mealtracker.fragments.loginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/updateMealsFragment"
+        android:name="io.ishtiaque06.www.mealtracker.fragments.updateMealsFragment"
+        android:label="fragment_update_meals"
+        tools:layout="@layout/fragment_update_meals" />
+    <fragment
+        android:id="@+id/feedbackFragment"
+        android:name="io.ishtiaque06.www.mealtracker.fragments.FeedbackFragment"
+        android:label="fragment_feedback"
+        tools:layout="@layout/fragment_feedback" />
+    <fragment
+        android:id="@+id/homePageFragment"
+        android:name="io.ishtiaque06.www.mealtracker.fragments.HomePageFragment"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_home_page" >
+        <action
+            android:id="@+id/action_homePageFragment_to_feedbackFragment"
+            app:destination="@id/feedbackFragment"
+            app:enterAnim="@anim/right_to_left"
+            app:exitAnim="@anim/left_to_right"/>
+        <action
+            android:id="@+id/action_homePageFragment_to_loginFragment"
+            app:destination="@id/loginFragment"
+            app:exitAnim="@anim/left_to_right"/>
+        <action
+            android:id="@+id/action_homePageFragment_to_updateMealsFragment"
+            app:destination="@id/updateMealsFragment"
+            app:enterAnim="@anim/right_to_left"
+            app:exitAnim="@anim/left_to_right"/>
+    </fragment>
+    <fragment
+        android:id="@+id/notificationFragment"
+        android:name="io.ishtiaque06.www.mealtracker.NotificationFragment"
+        android:label="fragment_notification"
+        tools:layout="@layout/fragment_notification" />
+</navigation>
