@@ -483,19 +483,19 @@ Let's start with the `checkDatabaseUser()` method. This checks if the user is al
     }
 ```
 
-    Let's sift through this code to understand better. Since Firebase's Realtime Database is supposed to give immediate access to information, the API also ships with a feature to listen for immediate changes in the data structures in the selected parts of the database. For example,
+Let's sift through this code to understand better. Since Firebase's Realtime Database is supposed to give immediate access to information, the API also ships with a feature to listen for immediate changes in the data structures in the selected parts of the database. For example,
 
 ```java
     mUserDatabase.child(user.getUid()).addListenerForSingleValueEvent(new ValueEventListener() {
 ```
-    This sets up a listener that listens for a single update in the`{database_url}/users/<uuid>/` link. The `onDataChange()` method that this interface implements gives access to a "snapshot" of the database from that particular link. Right now, since we just made this new database, it doesn't contain anything in that URL, which is why `dataSnapshot.exists()` evaluates to false.
+This sets up a listener that listens for a single update in the`{database_url}/users/<uuid>/` link. The `onDataChange()` method that this interface implements gives access to a "snapshot" of the database from that particular link. Right now, since we just made this new database, it doesn't contain anything in that URL, which is why `dataSnapshot.exists()` evaluates to false.
     Since the data isn't on the database, we add it. The way to do it is very simple. We find the right node that we want to write the data to, and we trigger a `.setValue()` method on that node. In this project,
 ```java
    mUserDatabase.child(user.getUid()).child("name").setValue(user.getDisplayName());
    mUserDatabase.child(user.getUid()).child("email").setValue(user.getEmail());
    mUserDatabase.child(user.getUid()).child("mealCount").setValue(0);
 ```
-   lines write the Firebase User's name in `/users/<uuid>/name` field, the email in `/users/<uuid>/email/` field and the number of meals they have in `/users/<uuid>/mealCount` URLs. **Note**: setValue replaces the values in the field you're writing your data to. Firebase also provides an updateChildren() method if a node contains multiple children. More information is [here](https://firebase.google.com/docs/database/android/read-and-write).
+lines write the Firebase User's name in `/users/<uuid>/name` field, the email in `/users/<uuid>/email/` field and the number of meals they have in `/users/<uuid>/mealCount` URLs. **Note**: setValue replaces the values in the field you're writing your data to. Firebase also provides an updateChildren() method if a node contains multiple children. More information is [here](https://firebase.google.com/docs/database/android/read-and-write).
 
 Our user initiation steps are complete. Now it's time to add the details to the homePageFragment and display the data there.
 Add the following lines to fragment_home_page.xml:
