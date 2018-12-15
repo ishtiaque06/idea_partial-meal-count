@@ -63,12 +63,10 @@ public class HomePageFragment extends Fragment {
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         Log.d(TAG, "onActivityCreated");
         super.onActivityCreated(savedInstanceState);
-        mViewModel = ViewModelProviders.of(this).get(SharedViewModel.class);
-        mViewModel.setUserDatabase();
+        mViewModel = ViewModelProviders.of(getActivity()).get(SharedViewModel.class);
 
         //Sets up an observer that observes for changes in mealCount for the logged in user.
-        ValueEventListener mealListener = mViewModel.getMealChangeListener();
-//        FirebaseUser user = mViewModel.getUser();
+        ValueEventListener mealListener = mViewModel.getDataChangeListener();
         mViewModel.getMealCountfromDatabase()
                 .addValueEventListener(mealListener);
         final Observer<Object> mealCountObserver  = new Observer<Object>() {

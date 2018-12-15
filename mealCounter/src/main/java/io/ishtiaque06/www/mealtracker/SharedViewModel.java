@@ -29,7 +29,6 @@ public class SharedViewModel extends ViewModel {
     private FirebaseUser mUser = mAuth.getCurrentUser();
     private FirebaseDatabase mDatabase = FirebaseDatabase.getInstance();
     private DatabaseReference mUserDatabase;
-    private boolean mPersistenceSettings = false;
 
     public FirebaseDatabase getDatabase() {
         return mDatabase;
@@ -53,7 +52,7 @@ public class SharedViewModel extends ViewModel {
         return mCurrentMealCount;
     }
 
-    private ValueEventListener mealChangeListener = new ValueEventListener() {
+    private ValueEventListener dataChangeListener = new ValueEventListener() {
         @Override
         public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
             if (dataSnapshot.exists()) {
@@ -67,8 +66,8 @@ public class SharedViewModel extends ViewModel {
         }
     };
 
-    public ValueEventListener getMealChangeListener() {
-        return mealChangeListener;
+    public ValueEventListener getDataChangeListener() {
+        return dataChangeListener;
     }
 
     public FirebaseAuth getAuth() {
@@ -99,14 +98,15 @@ public class SharedViewModel extends ViewModel {
             }
         });
     }
+    // Fetches the latest meal count from Database.
+    public DatabaseReference getMealCountfromDatabase() {
+        return mUserDatabase.child(mUser.getUid()).child("mealCount");
+    }
 
+    // This method is called by homePageFragment
     public void swipeMeal() {
         Long current = (Long) getCurrentMealCount().getValue();
         mUserDatabase.child(mUser.getUid()).child("mealCount").setValue(--current);
-    }
-
-    public DatabaseReference getMealCountfromDatabase() {
-        return mUserDatabase.child(mUser.getUid()).child("mealCount");
     }
 
     public void updateMealCount(Long newCount) {

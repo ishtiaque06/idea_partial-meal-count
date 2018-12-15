@@ -43,8 +43,8 @@ public class updateMealsFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View v = inflater.inflate(R.layout.fragment_update_meals, container, false);
-        mViewModel = ViewModelProviders.of(this).get(SharedViewModel.class);
-//        mViewModel.setUserDatabase();
+        mViewModel = ViewModelProviders.of(getActivity()).get(SharedViewModel.class);
+
         // Save button and EditText references
         mUpdateButton = v.findViewById(R.id.update_meals_button);
         mNewCount = v.findViewById(R.id.new_meal_count);
@@ -60,6 +60,7 @@ public class updateMealsFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 String countData = mNewCount.getText().toString();
+                Log.d(TAG, countData);
                 try {
                     long dataToUpdate = Long.parseLong(countData);
                     if (dataToUpdate > 0) {

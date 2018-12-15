@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
         boolean firebasePersistence = sharedPref.getBoolean("firebasePersistence", false);
         if (!firebasePersistence) {
             mSharedViewModel.getDatabase().setPersistenceEnabled(true);
-            mSharedViewModel.setUserDatabase();
             editor.putBoolean("firebasePersistence", true);
             editor.apply();
         }
@@ -61,9 +60,11 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         Log.d(TAG, "onBackPressed");
-        if (mController.getCurrentDestination().getId() == R.id.loginFragment) {
+        if ((mController.getCurrentDestination().getId() == R.id.loginFragment)
+                || (R.id.homePageFragment == mController.getCurrentDestination().getId())) {
             moveTaskToBack(true);
-            finish();
+            super.finish();
+
         }
         else {
             super.onBackPressed();
@@ -92,7 +93,6 @@ public class MainActivity extends AppCompatActivity {
                                 if (task.isSuccessful()) {
                                     Log.d(TAG, "Google Sign in succeeded");
                                     Log.d(TAG, String.valueOf(mSharedViewModel.getAuth().getCurrentUser() instanceof FirebaseUser));
-                                    mSharedViewModel.setUserDatabase();
                                     mSharedViewModel.setUser(mSharedViewModel.getAuth().getCurrentUser());
                                     mSharedViewModel.checkDatabaseUser(mSharedViewModel.getUser());
                                     mController.navigate(R.id.homePageFragment);

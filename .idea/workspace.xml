@@ -15,69 +15,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="839ee2e5-6145-4a43-a1da-d5df9220f692" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/NotificationFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/SharedViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/HomePageFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/updateMealsFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mealCounter/src/main/res/anim/left_to_right.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mealCounter/src/main/res/anim/right_to_left.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_home_page.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_update_meals.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/navEditor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/navEditor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.directory" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/.directory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/app-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/mealCounter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/io/ishtiaque06/www/mealtracker/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/androidTest/java/io/ishtiaque06/www/mealtracker/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/ishtiaque06/www/mealtracker/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/ishtiaque06/www/mealtracker/SharedViewModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/ishtiaque06/www/mealtracker/fragments/FeedbackFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/FeedbackFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/ishtiaque06/www/mealtracker/fragments/HomePageFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/ishtiaque06/www/mealtracker/fragments/loginFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/loginFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/ishtiaque06/www/mealtracker/fragments/updateMealsFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/drawable/rounded_button.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_feedback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_feedback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home_page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_notification.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_login.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_update_meals.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/navigation/nav_graph.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/io/ishtiaque06/www/mealtracker/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/test/java/io/ishtiaque06/www/mealtracker/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/SharedViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/SharedViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/HomePageFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/HomePageFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/loginFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/loginFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/updateMealsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/updateMealsFragment.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,8 +54,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+            <state relative-caret-position="320">
+              <caret line="55" column="53" lean-forward="true" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
               <folding>
                 <element signature="e#3526#4569#0" expanded="true" />
                 <element signature="e#4568#4569#0" expanded="true" />
@@ -113,56 +64,75 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="fragment_home_page.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_home_page.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="24" column="53" lean-forward="true" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="updateMealsFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/updateMealsFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+            <state relative-caret-position="580">
+              <caret line="79" column="10" lean-forward="true" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="10" />
+              <folding>
+                <element signature="e#1943#2817#0" expanded="true" />
+                <element signature="e#2816#2817#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomePageFragment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fragment_update_meals.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_update_meals.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomePageFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/HomePageFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="160">
+              <caret line="70" column="53" lean-forward="true" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Activity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/android/app/Activity.java">
+      <file leaf-file-name="FeedbackFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/FeedbackFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="6930" selection-start-line="6930" selection-end-line="6930" />
+            <state relative-caret-position="440">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActivityThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/android/app/ActivityThread.java">
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="4184" selection-start-line="4184" selection-end-line="4184" />
+            <state relative-caret-position="260">
+              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Handler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/android/os/Handler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="101" selection-start-line="101" selection-end-line="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SharedViewModel.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SharedViewModel.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/SharedViewModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="501">
+              <caret line="115" column="5" lean-forward="true" selection-start-line="111" selection-start-column="4" selection-end-line="115" selection-end-column="5" />
               <folding>
                 <element signature="e#1448#1449#0" expanded="true" />
                 <element signature="e#1476#1477#0" expanded="true" />
@@ -184,23 +154,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav_graph.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/navigation/nav_graph.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="loginFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/loginFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="70" column="79" selection-start-line="70" selection-start-column="79" selection-end-line="70" selection-end-column="79" />
+            <state relative-caret-position="309">
+              <caret line="59" column="85" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
               <folding>
                 <element signature="e#2350#2623#0" expanded="true" />
                 <element signature="e#2622#2623#0" expanded="true" />
@@ -219,6 +177,11 @@
         <option value="resourceFile" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setUser</find>
+    </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../mealcounterKeyStore.jks" />
@@ -3562,9 +3525,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/io/ishtiaque06/www/mealtracker/SharedViewModel.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/io/ishtiaque06/www/mealtracker/MainActivity.java" />
         <option value="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/updateMealsFragment.java" />
-        <option value="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/SharedViewModel.java" />
+        <option value="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/loginFragment.java" />
         <option value="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/MainActivity.java" />
         <option value="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/HomePageFragment.java" />
+        <option value="$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/SharedViewModel.java" />
       </list>
     </option>
   </component>
@@ -3604,6 +3568,23 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="mealtracker" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="fragments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="partial-meal-count" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mealCounter" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="partial-meal-count" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mealCounter" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="partial-meal-count" type="1abcf292:AndroidViewProjectNode" />
+              <item name="mealCounter" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
             <path>
               <item name="partial-meal-count" type="1abcf292:AndroidViewProjectNode" />
@@ -3757,11 +3738,11 @@
       <window_info anchor="bottom" id="Android Profiler" order="7" />
       <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Logcat" order="12" sideWeight="0.7516129" side_tool="true" visible="true" weight="0.11660777" />
+      <window_info anchor="bottom" id="Logcat" order="12" sideWeight="0.7516129" side_tool="true" visible="true" weight="0.12249705" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Assistant" order="3" weight="0.33924732" />
-      <window_info anchor="bottom" id="Build" order="9" sideWeight="0.2483871" visible="true" weight="0.11660777" />
+      <window_info anchor="bottom" id="Build" order="9" sideWeight="0.2483871" visible="true" weight="0.12249705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946237" weight="0.5017668" />
       <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
@@ -3774,7 +3755,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32979977" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32979977" />
       <window_info id="Captures" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.106451616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19193548" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32979977" />
       <window_info anchor="right" id="Gradle" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -3795,7 +3776,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/MainActivity.java</url>
-          <line>73</line>
+          <line>74</line>
           <properties class="io.ishtiaque06.www.mealtracker.MainActivity" method="onActivityResult">
             <option name="EMULATED" value="true" />
           </properties>
@@ -3824,11 +3805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding>
-            <element signature="e#895#915#0" expanded="true" />
-            <element signature="e#1211#1231#0" expanded="true" />
-            <element signature="e#1446#1467#0" expanded="true" />
-          </folding>
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -3876,11 +3852,6 @@
       </provider>
       <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-    </entry>
-    <entry file="android-dummy:///home/aishtiaque/projects/partial-meal-count//Theme Editor">
-      <provider selected="true" editor-type-id="themeEditor">
-        <state theme-name="AppTheme" module-name="app" proportion="0.67" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mealCounter/build.gradle">
@@ -3931,55 +3902,6 @@
       </provider>
       <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_home_page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="44" selection-end-column="14" />
-          <folding>
-            <element signature="e#895#915#0" expanded="true" />
-            <element signature="e#1211#1231#0" expanded="true" />
-            <element signature="e#1446#1467#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_update_meals.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-          <folding>
-            <element signature="e#648#669#0" expanded="true" />
-            <element signature="e#797#817#0" expanded="true" />
-            <element signature="e#1190#1211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/FeedbackFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/card_flip_left_out.xml">
@@ -4034,13 +3956,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/NotificationFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/android/app/Activity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -4062,17 +3977,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/updateMealsFragment.java">
+    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+        <state />
+      </provider>
+    </entry>
+    <entry file="android-dummy:///home/aishtiaque/projects/partial-meal-count//Theme Editor">
+      <provider selected="true" editor-type-id="themeEditor">
+        <state theme-name="AppTheme" module-name="mealCounter" proportion="0.67" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_home_page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="53" lean-forward="true" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/NotificationFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="55" column="53" lean-forward="true" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+          <folding>
+            <element signature="e#3526#4569#0" expanded="true" />
+            <element signature="e#4568#4569#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/loginFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="70" column="79" selection-start-line="70" selection-start-column="79" selection-end-line="70" selection-end-column="79" />
+        <state relative-caret-position="309">
+          <caret line="59" column="85" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
           <folding>
             <element signature="e#2350#2623#0" expanded="true" />
             <element signature="e#2622#2623#0" expanded="true" />
@@ -4080,10 +4026,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/FeedbackFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/HomePageFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="70" column="53" lean-forward="true" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/layout/fragment_update_meals.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/updateMealsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="79" column="10" lean-forward="true" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="10" />
+          <folding>
+            <element signature="e#1943#2817#0" expanded="true" />
+            <element signature="e#2816#2817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/SharedViewModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state relative-caret-position="501">
+          <caret line="115" column="5" lean-forward="true" selection-start-line="111" selection-start-column="4" selection-end-line="115" selection-end-column="5" />
           <folding>
             <element signature="e#1448#1449#0" expanded="true" />
             <element signature="e#1476#1477#0" expanded="true" />
@@ -4092,24 +4080,6 @@
             <element signature="e#2248#2249#0" expanded="true" />
             <element signature="e#2276#2277#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-          <folding>
-            <element signature="e#3526#4569#0" expanded="true" />
-            <element signature="e#4568#4569#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mealCounter/src/main/java/io/ishtiaque06/www/mealtracker/fragments/HomePageFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
