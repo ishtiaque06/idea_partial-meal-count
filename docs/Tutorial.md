@@ -9,7 +9,7 @@ Table of Contents
 4. [Intro to UX Design and Navigation Architecture](#intro-to-ux-design-and-navigation-architecture)
 5. [Setting up Google Authentication and linking with Firebase Auth](#setting-up-google-authentication-and-linking-with-firebase-auth)
 6. [Setting up Database Models and Realtime Database](#setting-up-database-models-and-realtime-database)
-7. [Data Read/Write from your Realtime Database](#data-read-write-from-your-realtime-database)
+7. [Data Read/Write from your Realtime Database](#data-readwrite-from-your-realtime-database)
 8. [Wrapping Up](#wrapping-up)
 
 
