@@ -3,14 +3,14 @@
 #### by Ahmed Ishtiaque
 Table of Contents
 ---
-1. Rationale
-2. What Are We Building?
-3. Setting up Your Project
-4. Intro to UX Design and Navigation Architecture
-5. Setting up Google Authentication and linking with Firebase Auth
-6. Setting up Database Models and Realtime Database
-7. Data Read/Write from your Realtime Database
-8. Wrapping Up
+1. [Rationale](#rationale)
+2. [What Are We Building?](#what-are-we-building)
+3. [Setting up Your Project](#setting-up-your-project)
+4. [Intro to UX Design and Navigation Architecture](#intro-to-ux-design-and-navigation-architecture)
+5. [Setting up Google Authentication and linking with Firebase Auth](#setting-up-google-authentication-and-linking-with-firebase-auth)
+6. [Setting up Database Models and Realtime Database](#setting-up-database-models-and-relatime-database)
+7. [Data Read/Write from your Realtime Database](#data-read/write-from-your-realtime-database)
+8. [Wrapping Up](#wrapping-up)
 
 
 Rationale
