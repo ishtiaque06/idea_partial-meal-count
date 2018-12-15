@@ -461,6 +461,7 @@ Data Read/Write from Your Realtime Database
 Now that we have the initial database modeling done, it's time to play around with the data.
 
 Let's start with the `checkDatabaseUser()` method. This checks if the user is already present in our database. If they're not, then they're added to the database tables.
+
 	```java
 	File: <app_name>/java/SharedViewModel.java
 
@@ -481,7 +482,9 @@ Let's start with the `checkDatabaseUser()` method. This checks if the user is al
         });
     }
     ```
+
     Let's sift through this code to understand better. Since Firebase's Realtime Database is supposed to give immediate access to information, the API also ships with a feature to listen for immediate changes in the data structures in the selected parts of the database. For example,
+		
     ```java
     mUserDatabase.child(user.getUid()).addListenerForSingleValueEvent(new ValueEventListener() {
     ```
