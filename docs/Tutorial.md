@@ -8,8 +8,8 @@ Table of Contents
 3. [Setting up Your Project](#setting-up-your-project)
 4. [Intro to UX Design and Navigation Architecture](#intro-to-ux-design-and-navigation-architecture)
 5. [Setting up Google Authentication and linking with Firebase Auth](#setting-up-google-authentication-and-linking-with-firebase-auth)
-6. [Setting up Database Models and Realtime Database](#setting-up-database-models-and-relatime-database)
-7. [Data Read/Write from your Realtime Database](#data-read/write-from-your-realtime-database)
+6. [Setting up Database Models and Realtime Database](#setting-up-database-models-and-realtime-database)
+7. [Data Read/Write from your Realtime Database](#data-read-write-from-your-realtime-database)
 8. [Wrapping Up](#wrapping-up)
 
 
@@ -281,7 +281,7 @@ This checks if the current fragment is the Login fragment. If it is, then we fin
 Now that we’re done with the primary navigation UI, let’s move on to user authentication.
 
 
-Setting Up Google Authentication and linking with the Firebase Auth
+Setting Up Google Authentication and linking with Firebase Auth
 ---
 User authentication in apps used to be a huge security concern in the past. Now, with Google’s Firebase API, integrating user authentication into your Android apps is easier than ever. We’re going to look at using the Google Sign In framework present natively on most Android devices, and we’re going to link up Firebase’s authentication with the native Google service.  
 
